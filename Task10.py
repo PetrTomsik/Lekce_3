@@ -1,3 +1,3 @@
 prvniRetezec = input("Prvni retezec")
 druhyRetezec = input("Druhy retezec")
-print(len(prvniRetezec) > len(druhyRetezec))
+print(f"Je prvni text delsi:{len(prvniRetezec) > len(druhyRetezec)}")
