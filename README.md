@@ -1,7 +1,7 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
-### A third-level heading
+# Vítám vás na 3 lekci 
+## Vítám vás na 3 lekci 
+### Vítám vás na 3 lekci 
+### Vítám vás na 3 lekci 
 
 # Lekce_3
 
