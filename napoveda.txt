@@ -1,0 +1,2 @@
+# Lupa -> get from version control
+# Dole v pravo Git -> pridat URL

@@ -1,2 +1,2 @@
-print("Prvni lekce")                # get from version control
+print("Prvni lekce")
 print("Druhy soubor")
