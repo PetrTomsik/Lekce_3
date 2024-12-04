@@ -18,8 +18,8 @@ retezec2 = input("Vložte řetezec")
 retezec3 = input("Hledas řetezec")
 #print(f"Vlozil si text: {retezec2}")
 #print(f'Hledáš v textu: {retezec3}')
-print(f'retezec index(){retezec2.index(retezec3)}') #uvozovky se musí strídat
 print(f'Vlozil si text: {retezec2} a budeme hledat {retezec3}')
+print(f'{retezec3} je na pozici ){retezec2.index(retezec3)}')   # uvozovky se musí strídat
 print(f'řetezec je dlouhy {len(retezec2)}')
 
 
