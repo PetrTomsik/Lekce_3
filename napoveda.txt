@@ -1,2 +1,11 @@
 # Lupa -> get from version control
 # Dole v pravo Git -> pridat URL
+# vytvorený další soubory bacha na větve Branch
+
+na stránce jsou dobré tipy
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+do README.md psát jako do tex. soubotu otevřít a psát
+# A first-level heading
+## A second-level heading
+### A third-level heading
