@@ -9,3 +9,6 @@ do README.md psát jako do tex. soubotu otevřít a psát
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
+
+-> Task8 + vyjímky
+-> Task9 Porovnánající operátory
